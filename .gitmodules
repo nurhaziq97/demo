@@ -1,0 +1,6 @@
+[submodule "demo-common"]
+	path = demo-common
+	url = https://github.com/nurhaziq97/demo-common
+[submodule "user-authentication"]
+	path = user-authentication
+	url = git@github.com:nurhaziq97/user-authentication.git
